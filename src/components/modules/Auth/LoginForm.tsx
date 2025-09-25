@@ -12,7 +12,7 @@ import { Input } from "../../ui/input";
 import { type FieldValues, type SubmitHandler, useForm } from "react-hook-form";
 
 import Link from "next/link";
-import { cn } from "@/src/lib/utils";
+import { cn } from "@/lib/utils";
 
 export function LoginForm({
   className,
