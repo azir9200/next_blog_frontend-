@@ -6,13 +6,6 @@ import { NavMenu } from "./nav-menu";
 import { Button } from "../../ui/button";
 import { NavigationSheet } from "./navigation-sheet";
 
-// import { Button } from "@/components/ui/button";
-
-// import Link from "next/link";
-// import { Logo } from "./logo";
-// import { NavMenu } from "./nav-menu";
-// import { NavigationSheet } from "./navigation-sheet";
-
 const Navbar = () => {
   return (
     <nav className="fixed top-6 inset-x-4 h-16 max-w-screen-xl mx-auto rounded-full bg-background border dark:border-slate-700/70 z-30">
